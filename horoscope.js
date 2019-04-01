@@ -1,3 +1,4 @@
-let future = (destiny) => {
-  console.log(`Your future looks like ${destiny}`);
+
+let future = (name, country) => {
+  console.log(`${name} is visiting ${country}`);
 }
