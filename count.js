@@ -1,7 +1,7 @@
 'use strict';
 
-const count = (input) => {
-  console.log(input);
+const count = (inputOne, inputTwo) => {
+  console.log(inputOne,inputTwo)
 };
 
-count(9);
+count(9,19);
