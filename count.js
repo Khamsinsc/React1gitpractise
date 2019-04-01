@@ -1,7 +1,7 @@
 'use strict';
 
 const count = (input) => {
-  console.log(input);
+  console.log(`Counting the countless ${input}`);
 };
 
 count(9);
