@@ -1,8 +1,6 @@
 
 
 
-let future = (title) => {
-  console.log(`scorpion ${title}`);
+let future = () => {
+  console.log('pig');
 }
-
-future("king");
