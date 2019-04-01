@@ -1,5 +1,7 @@
 'use strict';
 
-const count = () => {
-  console.log('myAge');
-}
+const count = (input) => {
+  console.log(input);
+};
+
+count(88);
