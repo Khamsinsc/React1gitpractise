@@ -1,5 +1,5 @@
 'use strict';
 
 console.log("Javascript");
-const cheer = (print) => console.log(print);
+const cheer = (print1, print2) => console.log(print1, print2);
 
