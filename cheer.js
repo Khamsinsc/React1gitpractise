@@ -1,1 +1,2 @@
-console.log("Formanek Denes");
+'use strict';
+console.log("Javascript");
