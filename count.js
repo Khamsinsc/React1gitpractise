@@ -1,7 +1,7 @@
 'use strict';
 
-const count = (input) => {
-  console.log(`Counting the countless ${input}`);
+const count = (inputOne, inputTwo) => {
+  console.log(inputOne,inputTwo);
 };
 
-count(9);
+count(9,19);
