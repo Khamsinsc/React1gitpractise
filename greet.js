@@ -1,4 +1,6 @@
 'use strict';
-function greet () {
-  console.log('Max and Rajmund');
+function greet (names) {
+  console.log(names);
 };
+
+greet('Max and Rajmund');

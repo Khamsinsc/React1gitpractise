@@ -4,4 +4,4 @@ const count = (input) => {
   console.log(input);
 };
 
-count(88);
+count(9);
